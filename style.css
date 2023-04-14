@@ -50,3 +50,9 @@ footer {
 	padding: 20px;
 	text-align: center;
 }
+
+/* Estilos Al titulo y al logo */
+
+header h1, header img{
+	display: inline-block;
+}
